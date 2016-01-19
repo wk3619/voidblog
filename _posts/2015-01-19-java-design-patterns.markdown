@@ -28,7 +28,9 @@ tags:
 
 ## 李氏替换原则（Liskov Substitution Principle LSP）
 
-< “老鼠的儿子会打洞”
+> “老鼠的儿子会打洞”
+
+儿子保持老子的能力，和自己的能力。不会改变老子赋予的能力
 
 ## 抽象工厂模式（Abstract Factory）
 
