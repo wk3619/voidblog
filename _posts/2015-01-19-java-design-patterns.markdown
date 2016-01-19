@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "design patterns"
-subtitle:   " \java 设计模式\""
+subtitle:   " \"java 设计模式\""
 date:       2016-01-19 12:00:00
 author:     "Void"
 header-img: "img/post-bg-design.jpg"
@@ -17,7 +17,7 @@ tags:
 
 ##概述
 七大设计原则，五大创建型模式，七大结构型模式，十一行为型模式
-![设计模式](/img/post-design-01.jpg)
-<img class="shadow" src="/img/in-post/post-kuaidi-2.jpg" width="260">
+![设计模式](/img/in-post/post-design-01.jpg)
+<img class="shadow" src="/img/in-post/post-design-01.jpg" width="260">
 上面图片是个v测试
 ###抽象工厂模式（Abstract Factory）
