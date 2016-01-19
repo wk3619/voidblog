@@ -14,5 +14,8 @@ tags:
 
 ## 前言
 
-Void的 Blog 就这么开通了。
-这是个helloworld
+打算写个技术博客，没找到理想的。
+看到GitHub/GitCafe Pages 可以自己搭建
+
+forked from Huxpro/huxpro.github.io 稍微做下个性化设置。
+个人博客算是搭建成功了。
