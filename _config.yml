@@ -3,7 +3,7 @@ title: Void Blog
 SEOTitle: 王凯的博客 | Void Blog
 header-img: img/home-bg.jpg
 email: wk3619@126.com
-description: "关于前端与设计、黑客与画家 void的个人博客，与你一起发现更大的世界。"
+description: "读书，旅游，爬山，健身，减脂，增肌，无所不爱，样样稀松。"
 keyword: "void ,网站, 互联网,后端，数据库"
 url: "http://wangkai.me"              # your host, for absolute URL
 baseurl: ""                    # for example, '/blog' if your blog hosted on 'host/blog'
@@ -61,7 +61,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，世界那么大，我想去看看。"
+sidebar-about-description: "读读书，写写代码，世界那么大，我想去看看。"
 sidebar-avatar: /img/wk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -73,24 +73,24 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    }
-]
+# friends: [
+#     {
+#         title: "天镶的博客",
+#         href: "http://lingyu.wang/"
+#     },{
+#         title: "Luke的自留地",
+#         href: "http://hmqk1995.github.io"
+#     },{
+#         title: "SmdCn's Blog",
+#         href: "http://blog.smdcn.net"
+#     },{
+#         title: "解旻的博客",
+#         href: "http://xieminis.me/"
+#     },{
+#         title: "DHong Say",
+#         href: "http://dhong.co"
+#     },{
+#         title: "尹峰以为",
+#         href: "http://ingf.github.io/"
+#     }
+# ]
